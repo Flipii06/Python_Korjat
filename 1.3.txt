@@ -1,0 +1,4 @@
+import  os
+DIR = 'C:/'
+file_number= (len(os.listdir(DIR)))
+print file_numer

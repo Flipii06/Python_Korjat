@@ -1,0 +1,10 @@
+szyfr='1111'
+szyfr2=input(("Podaj odpowiedni kod"))
+
+if szyfr==szyfr2:
+    print ("otwarte")
+else:
+    print ("niepoprawny szyfr")
+
+
+

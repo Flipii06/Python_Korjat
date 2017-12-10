@@ -1,0 +1,3 @@
+
+imie,nazwisko,rok=input("podaj imiê, nazwisko oraz rok").split()
+print("Rok urodzenia: ", rok,"\nNazwisko: ", nazwisko, "\nImie: ",imie)

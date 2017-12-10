@@ -1,0 +1,10 @@
+import os 
+os.mknod('foto.jpg')   
+os.mknod('foto1.jpg')   
+os.mknod('foto2.jpg')   
+os.mknod('foto3.jpg')  
+
+os.rename("foto.jpg", "foto.png")
+os.rename("foto1.jpg", "foto1.png")
+os.rename("foto2.jpg", "foto2.png")
+os.rename("foto3.jpg", "foto3.png")

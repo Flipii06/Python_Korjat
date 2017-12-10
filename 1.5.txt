@@ -1,0 +1,5 @@
+import os 
+dir='/home/2/a'
+for file in os.walk(dir):
+	print (file[2])
+
